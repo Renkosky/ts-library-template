@@ -1,0 +1,23 @@
+{
+  "name": "ts-library-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renkosky/ts-library-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renkosky/ts-library-template/issues"
+  },
+  "homepage": "https://github.com/Renkosky/ts-library-template#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
